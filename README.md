@@ -77,7 +77,7 @@ npm run dev
 
 I focused on delivering a functional, clean, and visually appealing dashboard under time constraints by:
 
--Choosing a frontend-only architecture for faster development.
+-Choosing a frontend-only architecture for faster development
 
 -Using mock JSON data to avoid API rate limits and simplify setup.
 
