@@ -25,7 +25,7 @@ ChartJS.register(
 export default function StockChart({ data, company }) {
     if (!data || data.length === 0) {
         return (
-            <div className="text-gray-400 p-6 h-full bg-gray-900  shadow-lg text-center pt-100">
+            <div className="text-gray-400 p-5 h-full bg-gray-900  shadow-lg text-center pt-100">
                 Select a company to view chart
             </div>
         );
