@@ -1,6 +1,6 @@
 # 📊 Stock Market Dashboard
 
-A clean, responsive **Stock Market Dashboard** built with **React**, **TailwindCSS**, and **Chart.js**.  
+A clean and  responsive **Stock Market Dashboard** built with **React**, **TailwindCSS**, and **Chart.js**.  
 It displays a list of companies, their historical price data, and **52-week high/low** statistics — now with a **beautiful custom vertical slider** for smooth scrolling.
 
 ---
